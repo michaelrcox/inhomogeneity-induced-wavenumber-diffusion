@@ -3,9 +3,8 @@ Supporting materials for paper titled inhomogeneity-induced wavenumber diffusion
 
 1. ray tracing
 - ray_tracing_for_github.ipynb contains ray tracing code for rotating shallow water system
-- non-dimensionalisation in code is different to the one used in the paper
--  in particular, Bu and Ro in the code are not the actual Burger and Rossby number
--   if the ray tracing code is to be used, it is recommended that the ray tracing equations are rewritten to conform with the paper non-dimensionalisation
+- note the in-code non-dimensionalisation is different to the one used in the paper
+- in particular, Bu and Ro in the code are not the actual Burger and Rossby number of the flow
 
 2. rotating shallow water flow
 - flow.mat example rotating shallow water flow
