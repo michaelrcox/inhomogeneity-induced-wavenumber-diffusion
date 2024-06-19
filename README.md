@@ -1,12 +1,12 @@
-# inhomogeneity-induced-wavenumber-diffusion
+# Inhomogeneity-induced-wavenumber-diffusion
 Supporting materials for paper titled inhomogeneity-induced wavenumber diffusion
 
-## ray tracing
+## Ray tracing
 - ray_tracing_for_github.ipynb contains ray tracing code for rotating shallow water system
 
-## rotating shallow water flow
+## Rotating shallow water flow
 - flow.mat example rotating shallow water flow
 - to be uploaded
 
-## geostrophic energy spectrum from 3D Boussinesq simulation
+## Geostrophic energy spectrum from 3D Boussinesq simulation
 - to be uploaded
