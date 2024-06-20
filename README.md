@@ -1,6 +1,6 @@
 # Inhomogeneity-induced-wavenumber-diffusion
 - Supporting materials for paper titled inhomogeneity-induced wavenumber diffusion
-- Any questions, please email michael michael.cox [at] ed.ac.uk
+- Any questions, please email michael.cox [at] ed.ac.uk
 
 ## Ray tracing
 - ray_tracing_for_github.ipynb contains ray tracing code for rotating shallow water system
