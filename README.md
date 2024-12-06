@@ -8,7 +8,7 @@
 ## Rotating shallow water flow
 - flow.mat example rotating shallow water flow (compressed as flow.zip)
 - contains
-- - 'xx', 'yy' : meshgrids of x and y coordinates
+  - 'xx', 'yy' : meshgrids of x and y coordinates
   - 'kxx', 'kyy' : meshgrids of horizontal wavenumbers
   - 'psik' : Fourier transform of stream function psi on wavenumber grid
 
